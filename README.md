@@ -5,3 +5,4 @@ Simple application of todo list. We can add tasks, set them as done and remove t
 # Tech stack:
 * react.js
 * prop-types
+* JSONPlaceholder API
